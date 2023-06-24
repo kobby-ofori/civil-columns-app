@@ -1,0 +1,11 @@
+.Comments{
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  display: flex;
+  flex-direction: column;
+}
+.Comments>span{
+  color: orange;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+}

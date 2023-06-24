@@ -1,0 +1,8 @@
+.Home{
+  margin: 25px 0 25px 0;
+}
+.img-div{
+  border: solid orange;
+  border-top-left-radius: 60%;
+  border-top-right-radius: 60%;
+}
